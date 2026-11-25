@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados originais
+data/raw/*
+
+# Dados processados
+data/processed/*
+
+# Arquivos privados
+.env
